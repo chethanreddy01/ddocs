@@ -1,4 +1,6 @@
 [![Cool Project](https://img.shields.io/badge/-Cool_Project-black?logo=github&logoColor=white)](https://github.com/username/repo1)  
+## 📦 Installation Guide
+[Go to Installation →](install.md)
 
 <!-- HERO / TITLE -->
 <p align="center">
