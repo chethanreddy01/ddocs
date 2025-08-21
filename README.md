@@ -1,3 +1,5 @@
+[![Cool Project](https://img.shields.io/badge/-Cool_Project-black?logo=github&logoColor=white)](https://github.com/username/repo1)  
+
 <!-- HERO / TITLE -->
 <p align="center">
   <img src="https://img.shields.io/badge/Wiki-Beautiful-blueviolet?logo=github&logoColor=white" alt="Wiki Badge chethu" />
