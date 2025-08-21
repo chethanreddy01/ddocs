@@ -1,6 +1,21 @@
 [![Cool Project](https://img.shields.io/badge/-Cool_Project-black?logo=github&logoColor=white)](https://github.com/username/repo1)  
 ## 📦 Installation Guide
 [Go to Installation →](install.md)
+| Row | Column 2        |
+|-----|-----------------|
+| 1   |                 |
+| 2   |                 |
+| 3   |                 |
+| 4   |                 |
+| 5   |                 |
+| 6   |                 |
+| 7   |                 |
+| 8   |                 |
+| 9   |                 |
+| 10  |                 |
+| 11  |                 |
+| 12  |                 |
+
 
 <!-- HERO / TITLE -->
 <p align="center">
