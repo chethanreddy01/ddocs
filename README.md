@@ -10,6 +10,8 @@
   <i>Clean, modern, and easy to scan. Built with pure GitHub Flavored Markdown.</i>
 </p>
 
+[![Repo1](https://img.shields.io/badge/-Repo1-black?logo=github&logoColor=white)](https://github.com/username/repo1)  
+
 <!-- QUICK NAV / CTA -->
 <p align="center">
   <a href="#-overview">Overview</a> •
