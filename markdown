@@ -1,4 +1,4 @@
-
+[![Repo1](https://img.shields.io/badge/-Repo1-black?logo=github&logoColor=white)](https://github.com/username/repo1)  
 <!-- HERO / TITLE -->
 <p align="center">
   <img src="https://img.shields.io/badge/Wiki-Beautiful-blueviolet?logo=github&logoColor=white" alt="Wiki Badge chethu" />
