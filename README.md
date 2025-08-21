@@ -7,7 +7,7 @@
 
 - 🏗️ **MyCoolRepo** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/>](https://github.com/username/repo1)  
 
-[![GitHub](https://img.shields.io/badge/-View_on_GitHub-black?logo=github&logoColor=white)](https://github.com/username/repo1)
+[![Gitk](https://img.shields.io/badge/-View_on_GitHub-black?logo=github&logoColor=white)](https://github.com/username/repo1)
 
 [![Gi](https://img.shields.io/badge/GitHub-MyCustom Tex-black?logo=github&logoColor=white)](https://github.com/username/repo1)
 
